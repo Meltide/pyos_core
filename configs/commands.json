@@ -23,7 +23,8 @@
             "asciier",
             "help",
             "errcode",
-            "script"
+            "script",
+            "jrrp"
         ],
         "Power": [
             "exit",
